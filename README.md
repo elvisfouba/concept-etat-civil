@@ -12,3 +12,4 @@ Le medecin rempli le gistre de naissance et soummet il a accès la modiffication
 L'admistrateur est le seul controleur de la plateforme une fois les officiers approuver y'a une generation automatique de l'acte de naissan.
 un projet est toujours evoluable donc l'amelioration reste à avenir.
   
+La conception du diagramme de classe représente une étape cruciale dans ce projet . Car la mise en place de la base de données pour l'enregistrement des naissances dépend de ce diagramme.Grace aux diagrammes de classes, nous avons pu faire ressortir les différents acteurs qui inter-agissent avec le système mis en place. L'outil utilisé pour la conception de ce diagramme est staruml. vous pouvez également utiliser d'autres logiciels  de votre choix pour la conception.
